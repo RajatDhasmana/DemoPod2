@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'DemoPod'
-  s.version          = '0.2.0'
+  s.name             = 'DemoPodRajat'
+  s.version          = '0.3.0'
   s.summary          = 'This is a demo pod to test how to create a pod'
 
 # This description is used to generate tags and improve search results.
